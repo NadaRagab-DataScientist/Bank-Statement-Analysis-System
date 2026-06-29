@@ -85,10 +85,4 @@ The system also supports a feedback-driven learning workflow, enabling continuou
 * Real-time dashboard and analytics
 * Automated model retraining pipeline
 
----
 
-## 👩‍💻 Author
-
-Nada Ragab
-
-Data Scientist | Machine Learning Engineer | Python Developer
