@@ -74,21 +74,6 @@ The system also supports a feedback-driven learning workflow, enabling continuou
 * SQL Database
 * REST APIs
 
----
-
-## 📂 Project Structure
-
-```text
-Bank-Statement-Analysis-System/
-│
-├── data/
-├── models/
-├── notebooks/
-├── samples/
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
